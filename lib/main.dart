@@ -23,9 +23,9 @@ class DicePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blue,
+      backgroundColor: Colors.black,
       appBar: AppBar(
-        title: Text('Nice Dice'),
+        title: Text('NiceDice'),
       ),
       body: Center(
         child: Row(
